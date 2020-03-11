@@ -1,9 +1,6 @@
 # remote_theme: mmistakes/minimal-mistakes
-# remote_theme: barryclark/jekyll-now
-# remote_theme: johno/pixyll
-# remote_theme: academicpages/academicpages.github.io
-remote_theme: elotroalex/ed
-# remote_theme: takasoft/Bootstrap-4-Jekyll-Theme
-# plugins:
+# remote_theme: elotroalex/ed
+remote_theme: takasoft/Bootstrap-4-Jekyll-Theme
+plugins:
+  - jekyll-archives
 #   - jekyll-include-cache
-#   - jekyll-archives
