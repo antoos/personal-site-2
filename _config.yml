@@ -3,6 +3,7 @@
 # remote_theme: johno/pixyll
 # remote_theme: academicpages/academicpages.github.io
 remote_theme: elotroalex/ed
+# remote_theme: takasoft/Bootstrap-4-Jekyll-Theme
 # plugins:
 #   - jekyll-include-cache
 #   - jekyll-archives
