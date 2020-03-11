@@ -1,7 +1,4 @@
-# theme: jekyll-theme-minimal
-# remote_theme: mmistakes/minimal-mistakes
-# remote_theme: jekyll-theme-primer
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
-  - jekyll-feed
+  - jekyll-archives
