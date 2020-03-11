@@ -1,4 +1,13 @@
-# remote_theme: mmistakes/minimal-mistakes
+### your site title here
+title: 10000
+
+### let's use the minima theme (see https://github.com/jekyll/minima)
+# theme: minima
+
+### exclude the instructions / write-up in the README.md
+exclude:
+- README.md
+
 # remote_theme: takasoft/Bootstrap-4-Jekyll-Theme
 remote_theme: elotroalex/ed
 plugins:
