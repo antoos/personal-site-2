@@ -1,6 +1,6 @@
 # remote_theme: mmistakes/minimal-mistakes
-# remote_theme: elotroalex/ed
-remote_theme: takasoft/Bootstrap-4-Jekyll-Theme
+# remote_theme: takasoft/Bootstrap-4-Jekyll-Theme
+remote_theme: elotroalex/ed
 plugins:
   - jekyll-archives
 #   - jekyll-include-cache
